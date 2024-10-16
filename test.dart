@@ -1,6 +1,6 @@
 // Function to calculate the sum of two numbers
 int calculateSum(int a, int b) {
-  return a + b;
+  return a + b +  5;
 }
 
 // Function to check if a number is even or odd
