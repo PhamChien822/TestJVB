@@ -1,6 +1,6 @@
 // Function to calculate the sum of two numbers
 function calculateSum(a, b) {
-    return a + b;
+    return a + b +1;
 }
 
 // Function to check if a number is even or odd
