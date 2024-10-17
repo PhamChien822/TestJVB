@@ -6,9 +6,9 @@ int calculateSum(int a, int b) {
 // Function to check if a number is even or odd
 String checkEvenOdd(int number) {
   if (number % 2 == 0) {
-    return "Even "
+    return "Even ";
   } else {
-    return "Odd"
+    return "Odd";
   }
 }
 
@@ -25,7 +25,7 @@ void main() {
   print("Sum: $sum"); // Output: Sum: 15
 
   String numberCheck = checkEvenOdd(7);
-  print("The number 7 is: $numberCheck"); // Output: The number 7 is: Odd
+  print("The number 7 is: $numberCheck test Git Pack"); // Output: The number 7 is: Odd
 
   print("Numbers from 1 to 10:");
   printNumbers(); // Output: 1 2 3 4 5 6 7 8 9 10
